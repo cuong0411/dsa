@@ -5,7 +5,6 @@ public class FindSecondMax {
         // int[] numbers = { 33, 10, 33, 1, 32, 0, 32 };
         int[] numbers = { 33, 33 };
         System.out.println(findSecondMax(numbers));
-        String a = "demo";
 
     }
 
